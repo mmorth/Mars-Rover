@@ -5,5 +5,7 @@ Our group approached this problem by breaking down all the requirements into ste
 
 For this project, I mainly worked on the object detection code. I also created a human-readable output that allowed our group to easily determine where objects were on the course. Most of the knowledge required for the project was provided in lecture and the appropriate data sheets. We utilized TA help if we had further questions. This project helped me to learn how to analyze the values of many sensors to achieve a goal and how to break up a larger project into smaller parts that fit together to solve the larger problem. 
 
+![alt text](https://github.com/mmorth/Mars-Rover/blob/master/Mars_Rover_Course.png)
+
 # Running Code
 The code for this project is specific to the platform we used for labs, so running this code is not possible without the use of that lab platform.
